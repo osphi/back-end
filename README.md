@@ -1,13 +1,13 @@
 # Back-End Controle de Investimentos
 
-# Tecnologias Usadas:
+# Linguagens Usadas:
 - Python
 - Flask
 - Flask-CORS
 
 # Estrutura:
 backend
-  app.py
+  /app.py
 
 # Como rodar:
 - Abrir Terminal no VSCode (Crtl + ')
